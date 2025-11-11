@@ -1,0 +1,16 @@
+{
+  "name": "x402-x-solana-sdk",
+  "version": "0.1.0",
+  "description": "Prototype SDK for the IPFi track built on Solana and Camp’s Origin SDK.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["camp", "ipfi", "solana", "sdk", "hackathon"],
+  "author": "", 
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.75.0"
+  }
+}
